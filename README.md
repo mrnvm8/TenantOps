@@ -234,5 +234,4 @@ Integration tests (API + EF Core)
 # Author
 
 Lindokuhle Magagula
-Mid-Level .NET Developer
 Focused on Clean Architecture, DDD, and scalable backend systems
