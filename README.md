@@ -35,6 +35,7 @@ Infrastructure	EF Core, repositories, security, JWT
 API	Controllers, HTTP, middleware
 
 # Solution Folder Structure
+NB: if you want to see the folder structure, correctly view the ReadME file as RAW
 # Domain
 
 Domain
